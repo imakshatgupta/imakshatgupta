@@ -11,6 +11,8 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ###
 
@@ -58,6 +60,20 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+
+###
+
+<br/>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/imakshatgupta/imakshatgupta/output/snake.svg" alt="Snake animation" />
+
+###
+<br/>
+<br/>
+<br clear="both">
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=imakshatgupta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />

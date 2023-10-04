@@ -88,5 +88,9 @@
   <img src="https://streak-stats.demolab.com?user=imakshatgupta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+ <h2>📌 Holopin Badges</h3>
+  
+ [![An image of @boltjazz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/boltjazz)](https://holopin.io/@boltjazz)
+
 
 ###

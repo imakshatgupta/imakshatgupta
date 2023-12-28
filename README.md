@@ -1,7 +1,6 @@
 <h2 align="left">Hii 👋! My name is Akshat Gupta and I'm a Full Stack Web Developer</h2>    
 
 ##
-
 <div align="center">
 <p align="center">
   <!---  <img alt="Banner" width="961" height="400"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> --->

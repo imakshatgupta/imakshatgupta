@@ -1,6 +1,5 @@
 <h2 align="left">Hii 👋! My name is Akshat Gupta and I'm a Full Stack Web Developer</h2>    
 
-
 ##
 
 <div align="center">

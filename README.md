@@ -1,6 +1,6 @@
 <h2 align="left">Hii 👋! My name is Akshat Gupta and I'm a Full Stack Web Developer</h2>    
 
-#
+###
 <div align="center">
 <p align="center">
   <!---  <img alt="Banner" width="961" height="400"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"> --->
@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <br/>
-#
+###
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
  <!--<img align="left" alt="Hacker" height="290" width="360" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"> -->
 
@@ -35,7 +35,7 @@
 
 
 
-##
+###
 
 <br/>
 <br clear="both">

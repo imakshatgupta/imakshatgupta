@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imakshatgupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <br/>
-<br/>
+<br/> 
 <br/>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
